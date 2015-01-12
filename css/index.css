@@ -5,6 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
+	background-color: #E0BA90;
 	box-sizing: border-box;
 
 	-moz-text-size-adjust: 100%;
